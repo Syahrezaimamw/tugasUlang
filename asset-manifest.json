@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tugasUlang/static/css/main.1d843e09.css",
-    "main.js": "/tugasUlang/static/js/main.03996613.js",
+    "main.js": "/tugasUlang/static/js/main.7533cde3.js",
     "static/media/ktkpre21.png": "/tugasUlang/static/media/ktkpre21.c3867c425acd680dad90.png",
     "static/media/404.png": "/tugasUlang/static/media/404.1777173f5f4e6ecc4334.png",
     "static/media/home.png": "/tugasUlang/static/media/home.76fc02b1de053d67c63b.png",
@@ -30,10 +30,10 @@
     "static/media/airbersihh.png": "/tugasUlang/static/media/airbersihh.0d7f849d534f41ecc5c7.png",
     "index.html": "/tugasUlang/index.html",
     "main.1d843e09.css.map": "/tugasUlang/static/css/main.1d843e09.css.map",
-    "main.03996613.js.map": "/tugasUlang/static/js/main.03996613.js.map"
+    "main.7533cde3.js.map": "/tugasUlang/static/js/main.7533cde3.js.map"
   },
   "entrypoints": [
     "static/css/main.1d843e09.css",
-    "static/js/main.03996613.js"
+    "static/js/main.7533cde3.js"
   ]
 }
