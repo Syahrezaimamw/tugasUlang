@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/tugasUlang/static/css/main.4113b248.css",
-    "main.js": "/tugasUlang/static/js/main.3dd2a511.js",
+    "main.css": "/tugasUlang/static/css/main.40697a5f.css",
+    "main.js": "/tugasUlang/static/js/main.704676d6.js",
     "static/media/ktkpre21.png": "/tugasUlang/static/media/ktkpre21.c3867c425acd680dad90.png",
     "static/media/404.png": "/tugasUlang/static/media/404.1777173f5f4e6ecc4334.png",
     "static/media/home.png": "/tugasUlang/static/media/home.76fc02b1de053d67c63b.png",
-    "static/media/rafiki.png": "/tugasUlang/static/media/rafiki.aca60dfb08018498231c.png",
     "static/media/Member 3.png": "/tugasUlang/static/media/Member 3.aae6c3b3206e7748c2d1.png",
     "static/media/Member 2 (1).png": "/tugasUlang/static/media/Member 2 (1).03e42ab91cb09f9cf75c.png",
     "static/media/Member 2.png": "/tugasUlang/static/media/Member 2.e0504d43af81a797ae73.png",
@@ -18,6 +17,7 @@
     "static/media/bgBulet.png": "/tugasUlang/static/media/bgBulet.bfe15ccf33e16a7a84e1.png",
     "static/media/prasarana.png": "/tugasUlang/static/media/prasarana.94c777216b656fe40fe2.png",
     "static/media/rafiki4.png": "/tugasUlang/static/media/rafiki4.b0c788338364d04e578d.png",
+    "static/media/rafiki.png": "/tugasUlang/static/media/rafiki.bd8ba1d8de65ce715141.png",
     "static/media/rafiki3.png": "/tugasUlang/static/media/rafiki3.1fcb75b053c2fbfeb415.png",
     "static/media/jmlhPendudukk.png": "/tugasUlang/static/media/jmlhPendudukk.47adb6d15c38c735a677.png",
     "static/media/kkbru.png": "/tugasUlang/static/media/kkbru.f1495b1d4236d738df3b.png",
@@ -26,14 +26,15 @@
     "static/media/genderPendudukk.png": "/tugasUlang/static/media/genderPendudukk.9bef10b1b3afd9290fe5.png",
     "static/media/rafiki2.png": "/tugasUlang/static/media/rafiki2.521bc0b25e52fc8b5aa2.png",
     "static/media/pre24.png": "/tugasUlang/static/media/pre24.65bd94514288ddba3109.png",
+    "static/media/bgov3.png": "/tugasUlang/static/media/bgov3.7586e29518dc4a0d8551.png",
     "static/media/hm.png": "/tugasUlang/static/media/hm.87198ca376d8478a59da.png",
     "static/media/airbersihh.png": "/tugasUlang/static/media/airbersihh.0d7f849d534f41ecc5c7.png",
     "index.html": "/tugasUlang/index.html",
-    "main.4113b248.css.map": "/tugasUlang/static/css/main.4113b248.css.map",
-    "main.3dd2a511.js.map": "/tugasUlang/static/js/main.3dd2a511.js.map"
+    "main.40697a5f.css.map": "/tugasUlang/static/css/main.40697a5f.css.map",
+    "main.704676d6.js.map": "/tugasUlang/static/js/main.704676d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.4113b248.css",
-    "static/js/main.3dd2a511.js"
+    "static/css/main.40697a5f.css",
+    "static/js/main.704676d6.js"
   ]
 }
