@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tugasUlang/static/css/main.34112ac2.css",
-    "main.js": "/tugasUlang/static/js/main.94b6ff8f.js",
+    "main.css": "/tugasUlang/static/css/main.4d30dc54.css",
+    "main.js": "/tugasUlang/static/js/main.76dc48fc.js",
     "static/media/ktkpre21.png": "/tugasUlang/static/media/ktkpre21.c3867c425acd680dad90.png",
     "static/media/404.png": "/tugasUlang/static/media/404.1777173f5f4e6ecc4334.png",
     "static/media/home.png": "/tugasUlang/static/media/home.76fc02b1de053d67c63b.png",
@@ -30,11 +30,11 @@
     "static/media/hm.png": "/tugasUlang/static/media/hm.87198ca376d8478a59da.png",
     "static/media/airbersihh.png": "/tugasUlang/static/media/airbersihh.0d7f849d534f41ecc5c7.png",
     "index.html": "/tugasUlang/index.html",
-    "main.34112ac2.css.map": "/tugasUlang/static/css/main.34112ac2.css.map",
-    "main.94b6ff8f.js.map": "/tugasUlang/static/js/main.94b6ff8f.js.map"
+    "main.4d30dc54.css.map": "/tugasUlang/static/css/main.4d30dc54.css.map",
+    "main.76dc48fc.js.map": "/tugasUlang/static/js/main.76dc48fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.34112ac2.css",
-    "static/js/main.94b6ff8f.js"
+    "static/css/main.4d30dc54.css",
+    "static/js/main.76dc48fc.js"
   ]
 }
